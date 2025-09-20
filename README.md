@@ -35,8 +35,8 @@
 ---
 
 ## 📫 Contact Me
-- Email: your.email@example.com  
-- LinkedIn: [Rushikesh Hippargekar](https://www.linkedin.com/in/your-linkedin)  
+- Email: rghhippargekar@gmail.com  
+- LinkedIn: [Rushikesh Hippargekar](https://www.linkedin.com/in/rushstatic-rushikesh-hippargekar)  
 - Portfolio / Website: [Your Website]  
 
 ---
