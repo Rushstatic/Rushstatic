@@ -4,6 +4,12 @@
 💻 Interested in **Machine Learning**, **Data Science**, **Full-Stack Development**, and **Web Scraping**  
 🌐 Currently working on **Fake Social Media Account Detection using Machine Learning**  
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=I+Love+Building+ML+Models;Full+Stack+Developer;Web+Scraping+Expert;NLP+Enthusiast.">
+  </a>
+</h1>
+
 ---
 
 ## 🔭 Current Project
@@ -44,9 +50,12 @@
 ## 🔥 GitHub Stats
 ![Rushikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rushstatic&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushstatic&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Rushstatic&theme=radical)](https://git.io/streak-stats)
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rushstatic&color=brightgreen)
+
+
 
 
