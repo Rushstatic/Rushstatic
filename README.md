@@ -6,7 +6,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=I+Love+Building+ML+Models;Full+Stack+Developer;Web+Scraping+Expert;NLP+Enthusiast.">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=I+Love+Building+ML+Models;Full+Stack+Developer;Web+Scraping+Expert;NLP+Enthusiasts.">
   </a>
 </h1>
 
